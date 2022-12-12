@@ -1,0 +1,70 @@
+description,Name,Mean,sd,lower,upper,dist,alpha,beta
+Nivolumab Drug acquisition,c_niv_drug,1999.3,133.29,1999.3,2399.16,gamma,225,8.89
+Nivolumab Drug administration,c_niv_admin,204.48,23.61,163.58,245.38,gamma,75,2.73
+Nivolumab plus Ipilimumab First-line drug acquisition,c_nivipi_drug,42511.91,2834,42511.91,51014.3,gamma,225,188.94
+Nivolumab plus Ipilimumab First-line drug administration,c_nivipi_admin,219.79,25.38,175.83,263.75,gamma,75,2.93
+Ipilimumab First-line drug acquisition,c_ipi_drug,40512.61,2700.84,40512.61,48615.13,gamma,225,180.06
+Ipilimumab First-line drug administration,c_ipi_admin,497.93,57.5,398.34,597.51,gamma,75,6.64
+Chemotherapy (carboplatin/paclitaxel) Second-line drug acquisition,c_che_drug,98.12,6.54,98.12,117.74,gamma,225,0.44
+Chemotherapy (carboplatin/paclitaxel) Second-line administration costs,c_che_admin,497.93,57.5,398.34,597.51,gamma,75,6.64
+"First-line nivolumab plus ipilimumab Grade1,2 Fatigue",nivipi_ae_f12,0.31,0.04,0.25,0.38,beta,48.94,108.93
+"First-line nivolumab plus ipilimumab Grade1,2 Diarrhea",nivipi_ae_d12,0.35,0.04,0.29,0.42,beta,52.32,98.03
+"First-line nivolumab plus ipilimumab Grade1,2 Rash",nivipi_ae_r12,0.36,0.04,0.29,0.43,beta,53.09,96.45
+"First-line nivolumab plus ipilimumab Grade1,2 Nausea",nivipi_ae_n12,0.24,0.03,0.19,0.3,beta,41.07,132.96
+"First-line nivolumab plus ipilimumab Grade1,2 Hypothyroid",nivipi_ae_h12,0.15,0.03,0.11,0.2,beta,28.29,164.18
+"First-line nivolumab plus ipilimumab Grade3,4 Fatigue",nivipi_ae_f34,0.04,0.01,0.02,0.07,beta,8.31,189.55
+"First-line nivolumab plus ipilimumab Grade3,4 Diarrhea",nivipi_ae_d34,0.09,0.02,0.06,0.13,beta,18.48,180.24
+"First-line nivolumab plus ipilimumab Grade3,4 Rash",nivipi_ae_r34,0.05,0.02,0.03,0.08,beta,9.57,189.76
+"First-line nivolumab plus ipilimumab Grade3,4 Nausea",nivipi_ae_n34,0.02,0.01,0.01,0.05,beta,4.01,178.19
+"First-line nivolumab plus ipilimumab Grade3,4 Hypothyroid",nivipi_ae_h34,0,0.01,0,0.02,beta,0.32,107.66
+"First-line ipilimumab Grade1,2 Fatigue",ipi_ae_f12,0.27,0.03,0.21,0.33,beta,44.93,122.73
+"First-line ipilimumab Grade1,2 Diarrhea",ipi_ae_d12,0.27,0.03,0.22,0.33,beta,44.74,120.96
+"First-line ipilimumab Grade1,2 Rash",ipi_ae_r12,0.31,0.04,0.25,0.38,beta,48.7,108.9
+"First-line ipilimumab Grade1,2 Nausea",ipi_ae_n12,0.15,0.03,0.11,0.21,beta,28.78,158.1
+"First-line ipilimumab Grade3,4 Fatigue",ipi_ae_f34,0.01,0.01,0,0.03,beta,1.32,145.51
+"First-line ipilimumab Grade3,4 Diarrhea",ipi_ae_d34,0.06,0.02,0.04,0.1,beta,12.28,189.04
+"First-line ipilimumab Grade3,4 Rash",ipi_ae_r34,0.02,0.01,0.01,0.04,beta,3.34,172.43
+"First-line ipilimumab Grade3,4 Nausea",ipi_ae_n34,0.01,0.01,0,0.02,beta,0.8,132.73
+"Second-line nivolumab Grade1,2 Fatigue",niv_ae_f12,0.24,0.04,0.19,0.31,beta,35.72,111.26
+"Second-line nivolumab Grade1,2 Diarrhea",niv_ae_d12,0.11,0.02,0.07,0.16,beta,18.33,151.38
+"Second-line nivolumab Grade1,2 Rash",niv_ae_r12,0.16,0.03,0.12,0.22,beta,25.52,133.99
+"Second-line nivolumab Grade1,2 Nausea",niv_ae_n12,0.09,0.02,0.06,0.14,beta,15.26,148.81
+"Second-line nivolumab Grade3,4 Fatigue",niv_ae_f34,0.01,0.01,0,0.03,beta,0.74,104.48
+"Second-line nivolumab Grade3,4 Diarrhea",niv_ae_d34,0,0.01,0,0.02,beta,0.38,94.75
+"Second-line nivolumab Grade3,4 Rash",niv_ae_r34,0,0,0,0,beta,0,0
+"Second-line nivolumab Grade3,4 Nausea",niv_ae_n34,0,0,0,0,beta,0,0
+"Second-line chemotherapy(carboplatin plus paclitaxel) Grade1,2 Fatigue",che_ae_f12,0.3,0.06,0.21,0.43,beta,14.99,34.31
+"Second-line chemotherapy(carboplatin plus paclitaxel) Grade1,2 Diarrhea",che_ae_d12,0.13,0.04,0.07,0.22,beta,7.39,50.35
+"Second-line chemotherapy(carboplatin plus paclitaxel) Grade1,2 Nausea",che_ae_n12,0.35,0.07,0.25,0.49,beta,16.08,29.48
+"Second-line chemotherapy(carboplatin plus paclitaxel) Grade1,2 Neutropenia",che_ae_ne12,0.05,0.03,0.02,0.11,beta,2.71,52.52
+"Second-line chemotherapy(carboplatin plus paclitaxel) Grade3,4 Fatigue",che_ae_f34,0.04,0.03,0.01,0.1,beta,2.08,51.21
+"Second-line chemotherapy(carboplatin plus paclitaxel) Grade3,4 Diarrhea",che_ae_d34,0.02,0.02,0,0.07,beta,0.9,44
+"Second-line chemotherapy(carboplatin plus paclitaxel) Grade3,4 Nausea",che_ae_n34,0.02,0.02,0,0.07,beta,0.9,44
+"Second-line chemotherapy(carboplatin plus paclitaxel) Grade3,4 Neutropenia",che_ae_ne34,0.14,0.05,0.08,0.23,beta,7.85,49.43
+AE DISUTILITY Fatigue,u_ae_f12,0.11,0.02,0.08,0.14,beta,35.79,289.55
+AE DISUTILITY Diarrhea,u_ae_d12,0.09,0.02,0.05,0.11,beta,23.6,238.65
+AE DISUTILITY Rash,u_ae_r12,0.06,0.02,0.02,0.09,beta,8.17,128.02
+AE DISUTILITY Nausea,u_ae_n12,0.1,0.02,0.06,0.13,beta,21.79,196.13
+AE DISUTILITY Hypothyroid,u_ae_h12,0,0,0,0,beta,0,0
+AE DISUTILITY Fatigue,u_ae_f34,0.11,0.02,0.08,0.14,beta,35.79,289.55
+AE DISUTILITY Diarrhea,u_ae_d34,0.17,0.03,0.12,0.22,beta,28.61,139.71
+AE DISUTILITY Rash,u_ae_r43,0.13,0.02,0.09,0.15,beta,47.13,315.41
+AE DISUTILITY Nausea,u_ae_n34,0.13,0.02,0.09,0.15,beta,47.13,315.41
+AE DISUTILITY Hypothyroid,u_ae_h43,0,0,0,0,beta,0,0
+AE COST Fatigue,c_ae_f12,0,0,0,0,gamma,0,0
+AE COST Diarrhea,c_ae_d12,8.64,0.6,7.6,9.68,gamma,207.05,0.04
+AE COST Rash,c_ae_r12,9.4,0.65,8.27,10.53,gamma,207.6,0.05
+AE COST Nausea,c_ae_n12,311.16,21.56,273.82,348.5,gamma,208.32,1.49
+AE COST Hypothyroid,c_ae_h12,20,0.8,17.6,17.6,gamma,625,0.03
+AE COST Fatigue,c_ae_f34,0,0,0,0,gamma,0,0
+AE COST Diarrhea,c_ae_d34,942.52,62.58,834.13,1050.91,gamma,226.84,4.15
+AE COST Rash,c_ae_r43,399.26,29.44,353.35,455.17,gamma,183.92,2.17
+AE COST Nausea,c_ae_n34,365.22,24.25,323.22,407.22,gamma,226.85,1.61
+AE COST Hypothyroid,c_ae_h43,20,0.8,22.4,22.4,gamma,625,0.03
+Utility Base state,u_base,0.8,0.03,0.75,0.84,beta,188.05,47.01
+Utility Progressive disease,u_pd,0.52,0.05,0.44,0.61,beta,53.31,49.21
+EOL cost,c_eol,13273,1532.63,10618.4,15927.6,gamma,75,176.97
+BSC£¨dacarbazine£©/3W,c_bsc_drug,152.01,10.13,152.01,182.41,gamma,225,0.68
+BSC£¨dacarbazine£©administration/3W,c_bsc_admin,497.93,46,418.26,577.6,gamma,117.18,4.25
+BSC percent£¨combin£©,p_bsc_nivipi,0.46,0.05,0.37,0.56,beta,39.66,45.64
+BSC percent£¨IPI£©,p_bsc_ipi,0.76,0.09,0.6,0.91,beta,17.58,5.69
