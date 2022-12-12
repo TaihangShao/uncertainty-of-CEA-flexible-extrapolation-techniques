@@ -1,0 +1,193 @@
+Num,Value,Model,Group
+1,85.18,Stand Parametric Model,NIV-OS
+1,61.17,Stand Parametric Model,NIV-OS
+1,64.96,Stand Parametric Model,NIV-OS
+1,52.5,Stand Parametric Model,NIV-OS
+1,46.38,Stand Parametric Model,NIV-OS
+1,56.04,Stand Parametric Model,NIV-OS
+1,48.76,Stand Parametric Model,NIV-OS
+1,47.11,Flexible Technique,NIV-OS
+1,46.85,Flexible Technique,NIV-OS
+1,47.09,Flexible Technique,NIV-OS
+1,47.04,Flexible Technique,NIV-OS
+1,47.34,Flexible Technique,NIV-OS
+1,48.43,Flexible Technique,NIV-OS
+1,46.84,Flexible Technique,NIV-OS
+1,48.1,Flexible Technique,NIV-OS
+1,47.05,Flexible Technique,NIV-OS
+2,175.96,Stand Parametric Model,NIV-OS
+2,90.42,Stand Parametric Model,NIV-OS
+2,104.14,Stand Parametric Model,NIV-OS
+2,58.02,Stand Parametric Model,NIV-OS
+2,32.07,Stand Parametric Model,NIV-OS
+2,70.01,Stand Parametric Model,NIV-OS
+2,44.43,Stand Parametric Model,NIV-OS
+2,32.63,Flexible Technique,NIV-OS
+2,33.81,Flexible Technique,NIV-OS
+2,35.46,Flexible Technique,NIV-OS
+2,44.82,Flexible Technique,NIV-OS
+2,42.55,Flexible Technique,NIV-OS
+2,45.79,Flexible Technique,NIV-OS
+2,33.5,Flexible Technique,NIV-OS
+2,33.71,Flexible Technique,NIV-OS
+2,31.67,Flexible Technique,NIV-OS
+3,136.78,Stand Parametric Model,NIV-OS
+3,63.71,Stand Parametric Model,NIV-OS
+3,76.1,Stand Parametric Model,NIV-OS
+3,48.53,Stand Parametric Model,NIV-OS
+3,33.73,Stand Parametric Model,NIV-OS
+3,50.2,Stand Parametric Model,NIV-OS
+3,35.65,Stand Parametric Model,NIV-OS
+3,36.23,Flexible Technique,NIV-OS
+3,33.76,Flexible Technique,NIV-OS
+3,33.57,Flexible Technique,NIV-OS
+3,33.84,Flexible Technique,NIV-OS
+3,33.9,Flexible Technique,NIV-OS
+3,34.23,Flexible Technique,NIV-OS
+3,33.56,Flexible Technique,NIV-OS
+3,34.68,Flexible Technique,NIV-OS
+3,32.53,Flexible Technique,NIV-OS
+1,265.43,Stand Parametric Model,NIV-PFS
+1,165.58,Stand Parametric Model,NIV-PFS
+1,187.62,Stand Parametric Model,NIV-PFS
+1,139.19,Stand Parametric Model,NIV-PFS
+1,108.8,Stand Parametric Model,NIV-PFS
+1,143.81,Stand Parametric Model,NIV-PFS
+1,116.89,Stand Parametric Model,NIV-PFS
+1,113.29,Flexible Technique,NIV-PFS
+1,121.19,Flexible Technique,NIV-PFS
+1,107.66,Flexible Technique,NIV-PFS
+1,108.45,Flexible Technique,NIV-PFS
+1,108.43,Flexible Technique,NIV-PFS
+1,107.53,Flexible Technique,NIV-PFS
+1,107.6,Flexible Technique,NIV-PFS
+1,124.26,Flexible Technique,NIV-PFS
+1,116.01,Flexible Technique,NIV-PFS
+2,457.07,Stand Parametric Model,NIV-PFS
+2,228.71,Stand Parametric Model,NIV-PFS
+2,272.16,Stand Parametric Model,NIV-PFS
+2,181.08,Stand Parametric Model,NIV-PFS
+2,58.44,Stand Parametric Model,NIV-PFS
+2,194.83,Stand Parametric Model,NIV-PFS
+2,112.46,Stand Parametric Model,NIV-PFS
+2,75.6,Flexible Technique,NIV-PFS
+2,60.45,Flexible Technique,NIV-PFS
+2,58.68,Flexible Technique,NIV-PFS
+2,81.54,Flexible Technique,NIV-PFS
+2,78.08,Flexible Technique,NIV-PFS
+2,77.25,Flexible Technique,NIV-PFS
+2,58.31,Flexible Technique,NIV-PFS
+2,102.57,Flexible Technique,NIV-PFS
+2,74.21,Flexible Technique,NIV-PFS
+3,323.59,Stand Parametric Model,NIV-PFS
+3,145.43,Stand Parametric Model,NIV-PFS
+3,184.67,Stand Parametric Model,NIV-PFS
+3,114.39,Stand Parametric Model,NIV-PFS
+3,62.29,Stand Parametric Model,NIV-PFS
+3,116.64,Stand Parametric Model,NIV-PFS
+3,73.22,Stand Parametric Model,NIV-PFS
+3,66.9,Flexible Technique,NIV-PFS
+3,87.23,Flexible Technique,NIV-PFS
+3,57.77,Flexible Technique,NIV-PFS
+3,55.28,Flexible Technique,NIV-PFS
+3,55.24,Flexible Technique,NIV-PFS
+3,55.16,Flexible Technique,NIV-PFS
+3,57.63,Flexible Technique,NIV-PFS
+3,66.86,Flexible Technique,NIV-PFS
+3,57.02,Flexible Technique,NIV-PFS
+1,132.05,Stand Parametric Model,IPI-OS
+1,134.47,Stand Parametric Model,IPI-OS
+1,137.72,Stand Parametric Model,IPI-OS
+1,120.61,Stand Parametric Model,IPI-OS
+1,120.92,Stand Parametric Model,IPI-OS
+1,124.98,Stand Parametric Model,IPI-OS
+1,120.45,Stand Parametric Model,IPI-OS
+1,138.64,Flexible Technique,IPI-OS
+1,123.06,Flexible Technique,IPI-OS
+1,120.67,Flexible Technique,IPI-OS
+1,120.05,Flexible Technique,IPI-OS
+1,120.03,Flexible Technique,IPI-OS
+1,120.09,Flexible Technique,IPI-OS
+1,121.05,Flexible Technique,IPI-OS
+1,129.19,Flexible Technique,IPI-OS
+1,123.63,Flexible Technique,IPI-OS
+2,157.99,Stand Parametric Model,IPI-OS
+2,164.13,Stand Parametric Model,IPI-OS
+2,170.75,Stand Parametric Model,IPI-OS
+2,100.99,Stand Parametric Model,IPI-OS
+2,110.82,Stand Parametric Model,IPI-OS
+2,107.1,Stand Parametric Model,IPI-OS
+2,100.4,Stand Parametric Model,IPI-OS
+2,166.19,Flexible Technique,IPI-OS
+2,72.83,Flexible Technique,IPI-OS
+2,90.51,Flexible Technique,IPI-OS
+2,103.2,Flexible Technique,IPI-OS
+2,92.16,Flexible Technique,IPI-OS
+2,95.68,Flexible Technique,IPI-OS
+2,88.02,Flexible Technique,IPI-OS
+2,111.98,Flexible Technique,IPI-OS
+2,95.1,Flexible Technique,IPI-OS
+3,149.77,Stand Parametric Model,IPI-OS
+3,109.95,Stand Parametric Model,IPI-OS
+3,123.56,Stand Parametric Model,IPI-OS
+3,88.11,Stand Parametric Model,IPI-OS
+3,76.61,Stand Parametric Model,IPI-OS
+3,88.53,Stand Parametric Model,IPI-OS
+3,80.45,Stand Parametric Model,IPI-OS
+3,77.7,Flexible Technique,IPI-OS
+3,75.52,Flexible Technique,IPI-OS
+3,75.48,Flexible Technique,IPI-OS
+3,75.32,Flexible Technique,IPI-OS
+3,75.35,Flexible Technique,IPI-OS
+3,75.34,Flexible Technique,IPI-OS
+3,75.53,Flexible Technique,IPI-OS
+3,77.52,Flexible Technique,IPI-OS
+3,76.58,Flexible Technique,IPI-OS
+1,398.83,Stand Parametric Model,IPI-PFS
+1,368.05,Stand Parametric Model,IPI-PFS
+1,400.31,Stand Parametric Model,IPI-PFS
+1,344.77,Stand Parametric Model,IPI-PFS
+1,276.04,Stand Parametric Model,IPI-PFS
+1,335.5,Stand Parametric Model,IPI-PFS
+1,316.61,Stand Parametric Model,IPI-PFS
+1,311.08,Flexible Technique,IPI-PFS
+1,275.89,Flexible Technique,IPI-PFS
+1,292.29,Flexible Technique,IPI-PFS
+1,277.5,Flexible Technique,IPI-PFS
+1,283.44,Flexible Technique,IPI-PFS
+1,295.89,Flexible Technique,IPI-PFS
+1,281.78,Flexible Technique,IPI-PFS
+1,363.4,Flexible Technique,IPI-PFS
+1,338.19,Flexible Technique,IPI-PFS
+2,217.77,Stand Parametric Model,IPI-PFS
+2,202.56,Stand Parametric Model,IPI-PFS
+2,218.49,Stand Parametric Model,IPI-PFS
+2,189.91,Stand Parametric Model,IPI-PFS
+2,130.9,Stand Parametric Model,IPI-PFS
+2,185.61,Stand Parametric Model,IPI-PFS
+2,167.46,Stand Parametric Model,IPI-PFS
+2,160.93,Flexible Technique,IPI-PFS
+2,129.3,Flexible Technique,IPI-PFS
+2,161.91,Flexible Technique,IPI-PFS
+2,132.86,Flexible Technique,IPI-PFS
+2,134.96,Flexible Technique,IPI-PFS
+2,141.27,Flexible Technique,IPI-PFS
+2,167.82,Flexible Technique,IPI-PFS
+2,183.15,Flexible Technique,IPI-PFS
+2,162.03,Flexible Technique,IPI-PFS
+3,264.89,Stand Parametric Model,IPI-PFS
+3,207.01,Stand Parametric Model,IPI-PFS
+3,240.67,Stand Parametric Model,IPI-PFS
+3,183.19,Stand Parametric Model,IPI-PFS
+3,130.42,Stand Parametric Model,IPI-PFS
+3,177.85,Stand Parametric Model,IPI-PFS
+3,149.15,Stand Parametric Model,IPI-PFS
+3,147.92,Flexible Technique,IPI-PFS
+3,171.45,Flexible Technique,IPI-PFS
+3,133.09,Flexible Technique,IPI-PFS
+3,129.64,Flexible Technique,IPI-PFS
+3,131.9,Flexible Technique,IPI-PFS
+3,135.93,Flexible Technique,IPI-PFS
+3,131.37,Flexible Technique,IPI-PFS
+3,182.3,Flexible Technique,IPI-PFS
+3,157.21,Flexible Technique,IPI-PFS
