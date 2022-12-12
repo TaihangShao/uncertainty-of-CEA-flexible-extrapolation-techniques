@@ -1,4 +1,4 @@
-## Uncertainty in economic evaluations for immunotherapy from extrapolating models choice and data maturity: a case study of Checkmate-067
+## A comparison of different extrapolation model choices to inform the structural uncertainty in economic evaluations for cancer immunotherapy: a case study of Checkmate-067
 
 Taihang Shao<sup>1*</sup>, Mingye Zhao<sup>1*</sup>, Leyi Liang<sup>1</sup>, Lizheng Shi<sup>2#</sup>, Wenxi Tang<sup>1,3#</sup>
 
