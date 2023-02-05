@@ -10,7 +10,7 @@ Taihang Shao<sup>1*</sup>, Mingye Zhao<sup>1*</sup>, Leyi Liang<sup>1</sup>, Liz
 #Corresponding authors
 
 PS: Codes in this repository are used to reproduce this analysis.<br>
-Original data and colour figures are also provided in this repository.
+Original data and colour figures are also provided in this repository.<br>
 DOI: https://doi.org/10.1007/s41669-023-0039
 
 Any questions or technical consulting:<br>
