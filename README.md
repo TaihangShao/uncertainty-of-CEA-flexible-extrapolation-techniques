@@ -1,4 +1,4 @@
-## A comparison of different extrapolation model choices to inform the structural uncertainty in economic evaluations for cancer immunotherapy: a case study of Checkmate-067
+## Impact of Extrapolation Model Choices on the Structural Uncertainty in Economic Evaluations for Cancer Immunotherapy: A Case Study of Checkmate 067
 
 Taihang Shao<sup>1*</sup>, Mingye Zhao<sup>1*</sup>, Leyi Liang<sup>1</sup>, Lizheng Shi<sup>2#</sup>, Wenxi Tang<sup>1,3#</sup>
 
@@ -11,6 +11,7 @@ Taihang Shao<sup>1*</sup>, Mingye Zhao<sup>1*</sup>, Leyi Liang<sup>1</sup>, Liz
 
 PS: Codes in this repository are used to reproduce this analysis.<br>
 Original data and colour figures are also provided in this repository.
+DOI: https://doi.org/10.1007/s41669-023-0039
 
 Any questions or technical consulting:<br>
 Email: cpu_sth@stu.cpu.edu.cn
