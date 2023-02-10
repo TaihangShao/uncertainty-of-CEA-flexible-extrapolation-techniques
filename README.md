@@ -13,7 +13,7 @@ PS: Codes in this repository are used to reproduce this analysis.<br>
 Original data and colour figures are also provided in this repository.<br>
 
 Journal: Pharmacoeconomics-Open<br>
-DOI: https://doi.org/10.1007/s41669-023-0039
+DOI: https://doi.org/10.1007/s41669-023-00391-5
 
 Any questions or technical consulting:<br>
 Email: cpu_sth@stu.cpu.edu.cn
