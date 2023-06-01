@@ -81,7 +81,7 @@ flexmodel<-function(ltHaz,ltHaz_out,sd_bc,sd_bc_out,df_cure,pm_ind){
   myLnL[8] <- (extractAIC(glmTemp)[2] - 2*extractAIC(glmTemp)[1])*(-0.5)
   myAIC[8] <- extractAIC(glmTemp)[2]
   
-  FP1res <- data.frame(c("-2","-1","-0.5","0","0.5","1","2","3"))
+  FP1res <- data.frame(c("-2","-1","-0.5","0.5","1","2","3","0"))
   FP1res <- cbind(FP1res,myLnL,myAIC)
   colnames(FP1res) <- c("Powers","LnL","AIC")
   FP1res <-arrange(FP1res,AIC)
